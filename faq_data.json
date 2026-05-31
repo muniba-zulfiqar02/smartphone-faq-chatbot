@@ -1,0 +1,52 @@
+{
+  "faqs": [
+    {
+      "question": "What is the battery capacity of the phone?",
+      "answer": "The phone comes with a 5000mAh battery that supports fast charging up to 65W."
+    },
+    {
+      "question": "Does the phone support 5G?",
+      "answer": "Yes, the phone fully supports 5G connectivity along with WiFi 6."
+    },
+    {
+      "question": "What is the camera quality?",
+      "answer": "It features a 108MP main camera with OIS, a 12MP ultrawide, and a 10MP telephoto lens."
+    },
+    {
+      "question": "How much RAM does the phone have?",
+      "answer": "The phone is available in 8GB and 12GB RAM variants."
+    },
+    {
+      "question": "What is the price of the phone?",
+      "answer": "The base model starts at $699 and the premium variant is priced at $899."
+    },
+    {
+      "question": "Is the phone waterproof?",
+      "answer": "Yes, it has an IP68 rating which means it is dustproof and waterproof up to 2 meters."
+    },
+    {
+      "question": "What operating system does it run?",
+      "answer": "The phone runs on Android 14 with a custom UI on top."
+    },
+    {
+      "question": "What is the display size and type?",
+      "answer": "It has a 6.7 inch AMOLED display with 120Hz refresh rate and 2K resolution."
+    },
+    {
+      "question": "How much storage does it have?",
+      "answer": "It comes in 128GB and 256GB internal storage options."
+    },
+    {
+      "question": "What is the warranty period?",
+      "answer": "The phone comes with a 1 year manufacturer warranty and optional extended warranty up to 3 years."
+    },
+    {
+      "question": "Does it support wireless charging?",
+      "answer": "Yes, it supports 15W wireless charging and 5W reverse wireless charging."
+    },
+    {
+      "question": "What colors is the phone available in?",
+      "answer": "The phone is available in Midnight Black, Arctic White, and Ocean Blue."
+    }
+  ]
+}
